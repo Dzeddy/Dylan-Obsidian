@@ -23,8 +23,12 @@
             "id": "380f7e8989c0ab31",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm Abstraction and Design/Greedy_Algo_II.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algorithm Abstraction and Design/Greedy_Algo_II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Algorithm Abstraction and Design/Greedy_Algo_II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Algorithm Abstraction and Design/Greedy_Algo_II.md"
+              }
             }
           },
           {
@@ -161,9 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f64252ccb3b3e454",
+  "active": "380f7e8989c0ab31",
   "lastOpenFiles": [
     "Algorithm Abstraction and Design/Stable Matching Problem (Gale Shapely).md",
+    "Algorithm Abstraction and Design/Greedy_Algo_II.md",
     "Algorithm Abstraction and Design/Untitled.md",
     "Algorithm Abstraction and Design",
     "DSA, Leetcode, or Comp Programming",
