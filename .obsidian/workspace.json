@@ -1,26 +1,26 @@
 {
   "main": {
-    "id": "1e98844e8b552899",
+    "id": "1d2e2802abce2320",
     "type": "split",
     "children": [
       {
-        "id": "d02d3e489afed62b",
+        "id": "3e708739e7e7efc9",
         "type": "tabs",
         "children": [
           {
-            "id": "9c624ae34d0e9ea9",
+            "id": "1722e8408f45c324",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm Abstraction and Design/Untitled.md",
+                "file": "Algorithm Abstraction and Design/Greedy_Algo_II.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "380f7e8989c0ab31",
+            "id": "17e1451b6846d768",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,15 +38,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "93b1a62c1bccc3a5",
+    "id": "256ab7a67e21e17b",
     "type": "split",
     "children": [
       {
-        "id": "68ad06f68b0e9560",
+        "id": "aa4595689b087b6f",
         "type": "tabs",
         "children": [
           {
-            "id": "f64252ccb3b3e454",
+            "id": "9d18bae185cdf211",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "fe61299801773b68",
+            "id": "cdc73eb2afd46863",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "413ffa0dd6ffbeda",
+            "id": "bfce23f95fd759b0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,15 +85,15 @@
     "width": 300
   },
   "right": {
-    "id": "05eb41339ea13ffb",
+    "id": "800a7527494dbdec",
     "type": "split",
     "children": [
       {
-        "id": "4e433f256a1d8c42",
+        "id": "0e3842fc253a2dee",
         "type": "tabs",
         "children": [
           {
-            "id": "8c77c959441b5a33",
+            "id": "43e9bb0562ef0b63",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -110,7 +110,7 @@
             }
           },
           {
-            "id": "dfc37f026f5b9161",
+            "id": "7491ef9563e82aa3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -122,7 +122,7 @@
             }
           },
           {
-            "id": "deedfb2d6bcb45bd",
+            "id": "eed4a3afb5baa401",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +133,7 @@
             }
           },
           {
-            "id": "97ae508683b5735a",
+            "id": "c3d59522f1945968",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -143,7 +143,7 @@
             }
           },
           {
-            "id": "f84d84cf5adebafd",
+            "id": "55dd2585846d4b50",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -169,15 +169,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "380f7e8989c0ab31",
+  "active": "17e1451b6846d768",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Algorithm Abstraction and Design/Untitled.md",
     "Algorithm Abstraction and Design/Stable Matching Problem (Gale Shapely).md",
     "Algorithm Abstraction and Design/Greedy_Algo_II.md",
-    "Algorithm Abstraction and Design/Untitled.md",
     "Algorithm Abstraction and Design",
-    "DSA, Leetcode, or Comp Programming",
-    "Untitled.canvas",
-    "Untitled.md",
-    "2023-09-02.md"
+    "Greedy Algo II.md",
+    "Dylan-Obsidian/Untitled.canvas",
+    "Dylan-Obsidian/Algorithm Abstraction and Design/Untitled.md",
+    "Dylan-Obsidian/Algorithm Abstraction and Design/Stable Matching Problem (Gale Shapely).md",
+    "Dylan-Obsidian/Algorithm Abstraction and Design/Greedy_Algo_II.md",
+    "Dylan-Obsidian/Algorithm Abstraction and Design",
+    "Dylan-Obsidian",
+    "main"
   ]
 }
