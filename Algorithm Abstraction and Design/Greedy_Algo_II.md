@@ -7,4 +7,4 @@ j#### Dijkstra's Algorithm
 - For each node $u \in S$: $d[u]$ = length of a shortest $s \rightarrow u$ path
 - Proof by Induction on $| S |$ 
 - Base Case: $|S|$ = 1 is easy since $S$ = {$s$}
-	- sdfsfsf
+	- 
